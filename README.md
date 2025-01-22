@@ -9,9 +9,7 @@ Calculator.java: Contains methods for calculations such as addition, subtraction
 
 # Features
 Addition
-
 Subtraction
-
 Multiplication
 Division
 Fibonacci Sequence
