@@ -8,17 +8,17 @@ UserInput.java: Handles user inputs for numbers, arrays, and operation selection
 Calculator.java: Contains methods for calculations such as addition, subtraction, multiplication, division, Fibonacci sequence, mean, and mode.
 
 # Features
-Addition
-Subtraction
-Multiplication
-Division
-Fibonacci Sequence
-Mean of Array
-Mode of Array
+* Addition 
+* Subtraction
+* Multiplication
+* Division
+* Fibonacci Sequence
+* Mean of Array
+* Mode of Array
 
 # Usage
-Clone the repository.
-Compile the Java files.
-Run Main.java to start the program.
+* Clone the repository.
+* Compile the Java files.
+* Run Main.java to start the program.
 
 # GitHub Repository
